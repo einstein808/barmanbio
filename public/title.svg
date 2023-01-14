@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="636" height="165" viewBox="0 0 636 165">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 100px;
+      }
+
+      .cls-1 {
+        fill: #dd1125;
+        font-family: Khula;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: #212384;
+        font-family: Rifton;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <text id="Grupo" class="cls-1" y="106.477">Grupo</text>
+  <text id="Adel" class="cls-2" x="286" y="106.491">Adel</text>
+</svg>
