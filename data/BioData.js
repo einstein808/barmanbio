@@ -11,11 +11,11 @@ const bioData = [
         descShow: true,
         subdesc: 'Garantia de Bom Negócio',
         subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
-        newProduct: false,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
-        footerText: 'made by'
+        newProductUrl: 'www.adelveiculos.com.br',
+        newProduct: true,
+        author: 'einstein808',
+        authorURL: 'www.linkedin.com/in/gabryel-amaro/',
+        footerText: 'feito por einstein808'
     },
 ];
 
