@@ -162,7 +162,7 @@ const Links = () => {
 
             {/* Other Section */}
             <LinkSection>
-              <h3>{others[0].type}</h3>
+              <h3>Veículos em destaque</h3>
               {/* BioData.js > newProduct == true */}
               {/* New Section will render once newProduct == true */}
               {(newProduct) ? <NewSection>
