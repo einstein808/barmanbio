@@ -6,7 +6,7 @@ const webLinks = [
         url: 'https://twitter.com/realvjy',
         type: 'social',
         icon: '/twitter.svg',
-        on: true
+        on: false
     },
     {
         title: 'Instagram',
@@ -34,7 +34,7 @@ const webLinks = [
         url: 'https://github.com/realvjy',
         type: 'social',
         icon: '/github.svg',
-        on: true
+        on: false
     },
     {
         title: 'Youtube',
@@ -48,7 +48,7 @@ const webLinks = [
         url: 'https://figma.com/@realvjy',
         type: 'social',
         icon: '/figma.svg',
-        on: true
+        on: false
     },
     {
         title: 'Behance',
@@ -69,7 +69,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
