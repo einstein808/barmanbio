@@ -132,14 +132,14 @@ const webLinks = [
         title: '#DicasAdel',
         url: 'https://www.youtube.com/c/GrupoAdelVeiculos/videos',
         type: 'install',
-        icon: '/yt.png',
+        icon: '/yt.svg',
         on: true
     },
     {
         title: 'Acesse nosso Blog !',
         url: 'https://www.adelveiculos.com.br/blog/',
         type: 'install',
-        icon: '/blog',
+        icon: '/blog.svg',
         on: true
     },
 
