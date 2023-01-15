@@ -8,9 +8,16 @@ const webLinks = [
         icon: '/twitter.svg',
         on: false
     },
+     {
+        title: 'Facebook',
+        url: 'https://www.facebook.com/grupoadelveiculos/',
+        type: 'social',
+        icon: '/facebook.svg',
+        on: false
+    },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://www.instagram.com/grupoadelveiculos/',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -136,29 +143,7 @@ const webLinks = [
         on: true
     },
 
-    {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
-        type: 'other',
-        icon: '/bmc.png',
-        on: true
-    },
-
-    {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
-        type: 'other',
-        icon: '/vjy.png',
-        on: true
-    },
-
-    {
-        title: 'maker website',
-        url: 'https://vjy.me',
-        type: 'other',
-        icon: '/vjy.png',
-        on: true
-    },
+    
 ];
 
 export default webLinks;
