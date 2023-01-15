@@ -13,7 +13,7 @@ const webLinks = [
         url: 'https://www.facebook.com/grupoadelveiculos/',
         type: 'social',
         icon: '/facebook.svg',
-        on: false
+        on: true
     },
     {
         title: 'Instagram',
