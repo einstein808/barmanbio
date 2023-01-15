@@ -124,7 +124,7 @@ const Links = () => {
 
             {/* Install Section */}
             <LinkSection>
-              <h3>{install[0].type}</h3>
+              <h3>Entre Contato</h3>
               {
                 install.map((i) => {
                   return (
