@@ -115,31 +115,31 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Entre contato Adel via Whatsapp',
+        title: 'Entre contato via Whatsapp',
         url: 'https://api.whatsapp.com/send/?phone=5532985255186&text&type=phone_number&app_absent=0',
         type: 'install',
         icon: '/whatsapp.svg',
         on: true
     },
     {
-        title: 'Deploy on Vercel',
-        url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
+        title: 'Loja de AutoPeças Adel',
+        url: 'https://api.whatsapp.com/send/?phone=5532985095845&text&type=phone_number&app_absent=0',
         type: 'install',
-        icon: '/vercel.svg',
+        icon: '/pecas.svg',
         on: true
     },
     {
-        title: 'Documentation',
-        url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
+        title: '#DicasAdel',
+        url: 'https://www.youtube.com/c/GrupoAdelVeiculos/videos',
         type: 'install',
-        icon: '/doc.png',
+        icon: '/yt.png',
         on: true
     },
     {
-        title: 'Github',
-        url: 'https://github.com/realvjy/nxt-lnk',
+        title: 'Acesse nosso Blog !',
+        url: 'https://www.adelveiculos.com.br/blog/',
         type: 'install',
-        icon: '/github-fill.svg',
+        icon: '/blog',
         on: true
     },
 
