@@ -2,7 +2,7 @@
 const bioData = [
     {
         name: 'Adel Veículos',
-        username: 'www.adelveiculos.com.br',
+        username: 'https://www.adelveiculos.com.br/',
         url: 'adelveiculos.com.br',
         titleImg: true,
         avatar: '/avatar.png',
@@ -11,11 +11,11 @@ const bioData = [
         descShow: true,
         subdesc: 'Garantia de Bom Negócio',
         subdescShow: true,
-        newProductUrl: 'www.adelveiculos.com.br',
+        newProductUrl: 'https://www.adelveiculos.com.br/',
         newProduct: true,
         author: 'einstein808',
-        authorURL: 'www.linkedin.com/in/gabryel-amaro/',
-        footerText: 'feito por einstein808'
+        authorURL: 'https://www.linkedin.com/in/gabryel-amaro/',
+        footerText: 'feito por'
     },
 ];
 
