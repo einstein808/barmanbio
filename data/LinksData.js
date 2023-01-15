@@ -108,10 +108,10 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
+        title: 'Entre contato Adel via Whatsapp',
+        url: 'https://api.whatsapp.com/send/?phone=5532985255186&text&type=phone_number&app_absent=0',
         type: 'install',
-        icon: '/use.png',
+        icon: '/whatsapp.svg',
         on: true
     },
     {
