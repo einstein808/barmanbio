@@ -8,7 +8,7 @@ export default function Home() {
     title: seoData.openGraph.title,
     excerpt: 'home',
     slug: '/',
-    coverImage: 'https://mercador.blob.core.windows.net/imagens/banner/42/d12b325b-0d34-48be-9cff-f968250a350f.png'
+    coverImage: 'https://uploaddeimagens.com.br/images/004/300/617/full/car.png'
   };
   return (
     <>
