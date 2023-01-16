@@ -1,4 +1,14 @@
 export default {
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Adel Veiculos",
+    "url": "https://www.adelveiculos.com.br/",
+    "address": "Av. Presidente Juscelino Kubitschek, 500 - Francisco Bernardino, Juiz de Fora - MG, 36083-750",
+    "sameAs": [
+      "https://www.facebook.com/grupoadelveiculos"
+    ]
+  }
     openGraph: {
         type: 'website',
         locale: 'pt-br',
