@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://mercador.blob.core.windows.net/imagens/banner/42/d12b325b-0d34-48be-9cff-f968250a350f.png`,
+                url: `https://uploaddeimagens.com.br/images/004/300/740/original/previewff.png`,
             },
         ],
         site_name: 'Adel Veiculos',
