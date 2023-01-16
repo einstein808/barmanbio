@@ -45,17 +45,6 @@ export default class MyDocument extends Document {
 
                 </Head>
                 <body>
-<script type="application/ld+json">
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "Adel Veiculos",
-    "url": "https://www.adelveiculos.com.br/",
-    "address": "Av. Presidente Juscelino Kubitschek, 500 - Francisco Bernardino, Juiz de Fora - MG, 36083-750",
-    "sameAs": [
-      "https://www.facebook.com/grupoadelveiculos"
-    ]
-
-</script>
 
                     <Main />
                     <NextScript />
