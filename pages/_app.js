@@ -39,15 +39,15 @@ function MyApp({ Component, pageProps }) {
                             content: SEO.openGraph.keywords,
                         },
                         {
-                            name: 'instagram:image',
+                            name: 'twitter:image',
                             content: SEO.openGraph.images[0].url
                         },
                         {
-                            name: 'instagram:title',
+                            name: 'twitter:title',
                             content: SEO.openGraph.title,
                         },
                         {
-                            name: 'instagram:description',
+                            name: 'twitter:description',
                             content: SEO.openGraph.description,
                         },
                         {
