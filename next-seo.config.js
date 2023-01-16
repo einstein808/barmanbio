@@ -3,22 +3,22 @@ export default {
         type: 'website',
         locale: 'pt-br',
         title: 'Adel Veiculos',
-        url: 'https://vjy.me',
+        url: 'adelveiculos.com.br',
         description: 'Adel Veiculos rede sociais',
-        locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        locale: 'pt-br',
+        keywords: 'concessionária jf, carros usados jf, adel, adel veiculos, grupo adel',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `https://mercador.blob.core.windows.net/imagens/banner/42/d12b325b-0d34-48be-9cff-f968250a350f.png`,
             },
         ],
         site_name: 'Adel Veiculos',
     },
-    twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+    instagram: {
+        handle: '@grupoadelveiculos',
+        site: 'adelveiculos.com.br',
         cardType: 'summary_large_image',
     },
 };
