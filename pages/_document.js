@@ -46,7 +46,6 @@ export default class MyDocument extends Document {
                 </Head>
                 <body>
 <script type="application/ld+json">
-  {
     "@context": "http://schema.org",
     "@type": "Organization",
     "name": "Adel Veiculos",
@@ -55,7 +54,7 @@ export default class MyDocument extends Document {
     "sameAs": [
       "https://www.facebook.com/grupoadelveiculos"
     ]
-  }
+
 </script>
 
                     <Main />
