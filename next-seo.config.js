@@ -3,7 +3,7 @@ export default {
         type: 'website',
         locale: 'pt-br',
         title: 'Adel Veiculos',
-        url: 'adelveiculos.com.br',
+        url: 'https://www.adelveiculos.com.br/',
         description: 'Adel Veiculos rede sociais',
         locale: 'pt-br',
         keywords: 'concessionária jf, carros usados jf, adel, adel veiculos, grupo adel',
@@ -16,9 +16,9 @@ export default {
         ],
         site_name: 'Adel Veiculos',
     },
-    instagram: {
+    twitter: {
         handle: '@grupoadelveiculos',
-        site: 'adelveiculos.com.br',
+        site: 'https://www.adelveiculos.com.br/',
         cardType: 'summary_large_image',
     },
 };
