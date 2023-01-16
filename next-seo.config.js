@@ -20,5 +20,5 @@ export default {
         handle: '@grupoadelveiculos',
         site: 'https://www.adelveiculos.com.br/',
         cardType: 'summary_large_image',
-    }
+    },
 };
