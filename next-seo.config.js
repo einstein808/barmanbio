@@ -20,12 +20,5 @@ export default {
         handle: '@grupoadelveiculos',
         site: 'https://www.adelveiculos.com.br/',
         cardType: 'summary_large_image',
-    },
-     "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "Adel Veiculos",
-    "url": "https://www.adelveiculos.com.br/",
-    "address": "Av. Presidente Juscelino Kubitschek, 500 - Francisco Bernardino, Juiz de Fora - MG, 36083-750",
-    "sameAs": [
-      "https://www.facebook.com/grupoadelveiculos"
+    }
 };
