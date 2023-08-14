@@ -1,25 +1,24 @@
 export default {
-   
     openGraph: {
         type: 'website',
-        locale: 'pt-br',
-        title: 'Adel Veiculos',
-        url: 'https://www.adelveiculos.com.br/',
-        description: 'Adel Veiculos rede sociais',
-        locale: 'pt-br',
-        keywords: 'concessionária jf, carros usados jf, adel, adel veiculos, grupo adel',
+        locale: 'pt_br',
+        title: 'Rafaela Abbiti',
+        url: 'Rafaela Abbiti',
+        description: 'Consultora de vendas @grupoadelveiculos 🚗',
+        locale: 'pt_br',
+        keywords: 'consultor de vendas, carros novos, carros usados, consultor de vendas jf',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: `https://uploaddeimagens.com.br/images/004/300/740/original/previewff.png`,
+                url: `rafa.png`,
             },
         ],
-        site_name: 'Adel Veiculos',
+        site_name: 'Rafaela Abbiti',
     },
     twitter: {
-        handle: '@grupoadelveiculos',
-        site: 'https://www.adelveiculos.com.br/',
+        handle: '@Rafaela Abbiti',
+        site: 'Rafaela Abbiti',
         cardType: 'summary_large_image',
     },
 };

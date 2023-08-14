@@ -16,7 +16,7 @@ export default function Seo({ page }) {
                     url: `${seoData.openGraph.url}`,
                     title: `${title}`,
                     description: `${seoData.openGraph.description}`,
-                    locale: 'pt-br',
+                    locale: 'en_EN',
                     images: [
                         {
                             width: 1200,
@@ -25,11 +25,11 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'adelveiculos.com.br',
+                    site_name: 'vjy.me',
                 }}
-                instagram={{
-                    handle: '@grupoadelveiculos',
-                    site: 'adelveiculos.com.br',
+                twitter={{
+                    handle: '@realvjy',
+                    site: 'vjy.me',
                     cardType: 'summary_large_image',
                 }}
                 additionalMetaTags={[{
@@ -37,7 +37,7 @@ export default function Seo({ page }) {
                     content: `${seoData.openGraph.keywords}`
                 },
                 {
-                    name: 'instagram:image',
+                    name: 'twitter:image',
                     content: `${seoData.openGraph.images[0].url}`
                 },
                 {

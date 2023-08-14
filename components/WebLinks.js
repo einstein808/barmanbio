@@ -9,6 +9,8 @@ import Link from "next/link";
 import { ChevronRightIcon, HexIcon, HomeIcon, TwitterIcon, NewUp, OvalIcon } from './icons';
 import allLinks from "../data/LinksData";
 import bioData from "../data/BioData";
+import AtualizacaoAutomatica from "./ImagemRotativa";
+import PaginaR from "./imagens";
 
 
 
@@ -124,7 +126,7 @@ const Links = () => {
 
             {/* Install Section */}
             <LinkSection>
-              <h3>Entre Contato</h3>
+              <h3>Contatos</h3>
               {
                 install.map((i) => {
                   return (
@@ -135,7 +137,15 @@ const Links = () => {
                     </a>
                   )
                 })
+                
               }
+              <NewSection>
+                
+                <a href={newProductUrl} target="_blank" rel="noreferrer">
+                <PaginaR className="newproduct "/>
+                </a>
+              </NewSection>
+              
             </LinkSection>
             {/* End Install Section */}
 
@@ -157,25 +167,25 @@ const Links = () => {
                   }
                 </LinkSection>
                 : ''
+                
             }
             {/* End NFT Section */}
 
             {/* Other Section */}
             <LinkSection>
-              <h3>Veículos em destaque</h3>
+              
               {/* BioData.js > newProduct == true */}
               {/* New Section will render once newProduct == true */}
-              {(newProduct) ? <NewSection>
+              
+              {/* {(newProduct) ? <NewSection>
+                
                 <a href={newProductUrl} target="_blank" rel="noreferrer">
-                  <img
-                    src={'/newproduct.png'}
-                    className="newproduct"
-                  />
+                <PaginaR className="newproduct "/>
                 </a>
               </NewSection> : ''
-              }
+              } */}
               {/* End Biodata.js, You can move this section anywhere */}
-              {
+              {/* {
                 others.map((i) => {
                   return (
                     <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
@@ -185,7 +195,7 @@ const Links = () => {
                     </a>
                   )
                 })
-              }
+              } */}
             </LinkSection>
             {/* End Other Section */}
 
