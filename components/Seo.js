@@ -25,11 +25,11 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'vjy.me',
+                    site_name: 'barman.gabryelamaro.com',
                 }}
                 twitter={{
-                    handle: '@realvjy',
-                    site: 'vjy.me',
+                    handle: '@gabryel.amaro',
+                    site: 'barman.gabryeamaro.com',
                     cardType: 'summary_large_image',
                 }}
                 additionalMetaTags={[{
