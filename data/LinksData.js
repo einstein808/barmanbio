@@ -10,7 +10,7 @@ const webLinks = [
     },
     {
         title: 'Instagram',
-        url: 'https://www.instagram.com/rafaelaabbiti/',
+        url: 'https://www.instagram.com/gabryel.amaro/',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -110,7 +110,7 @@ const webLinks = [
     // Install section
     {
         title: 'Chame no WhatsApp',
-        url: 'https://api.whatsapp.com/send?phone=5532999346163&text=Ol%C3%A1+%2C+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+compra%2Fvenda+de+carro.',
+        url: 'https://wa.me/5532998696519',
         type: 'install',
         icon: '/whats.png',
         on: true

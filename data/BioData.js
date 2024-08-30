@@ -1,21 +1,17 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Rafaela Abbiti',
-        username: '@rafaelaabbiti',
-        url: 'https://www.instagram.com/rafaelaabbiti/',
+        name: 'Gabryel Amaro',
+        username: '@gabryel.amaro',
+        url: 'https://www.instagram.com/gabryel.amaro',
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: `Consultora de vendas @grupoadelveiculos
-        🚗Seminovos e usados
-        ☎️ (32)3213-8092
-        📌 Shopping Jardim norte
-        📍Avenida Brasil ,6031 - Mariano Procópio`,
+        description: `Barman em Juiz de Fora 🍸, especializado em criar experiências únicas com coquetéis artesanais 🍹. Sempre em busca de novas inspirações 🌟 para surpreender os paladares dos clientes, trazendo o melhor da mixologia para cada evento 🎉.`,
         descShow: true,
         subdesc: '',
         subdescShow: true,
-        newProductUrl: 'https://api.whatsapp.com/send?phone=5532999346163&text=Ol%C3%A1+%2C+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+compra%2Fvenda+de+carro.',
+        newProductUrl: 'https://wa.me/5532998696519',
         newProduct: true,
         author: 'einstein808',
         authorURL: 'https://api.whatsapp.com/send?phone=5532998374982&text=Ol%C3%A1,%20Gabryel.%0AVi%20seu%20link%20do%20Linktree',
