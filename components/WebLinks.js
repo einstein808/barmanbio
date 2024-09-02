@@ -11,6 +11,7 @@ import allLinks from "../data/LinksData";
 import bioData from "../data/BioData";
 import AtualizacaoAutomatica from "./ImagemRotativa";
 import PaginaR from "./imagens";
+import GoogleReviewButton from "./GoogleReviewButton";
 
 
 
@@ -139,12 +140,16 @@ const Links = () => {
                 })
                 
               }
+              <GoogleReviewButton/>
               <NewSection>
                 
                 <a href={newProductUrl} target="_blank" rel="noreferrer">
                 <PaginaR className="newproduct "/>
                 </a>
               </NewSection>
+              
+              
+              
               
             </LinkSection>
             {/* End Install Section */}
