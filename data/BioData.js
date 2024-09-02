@@ -7,7 +7,7 @@ const bioData = [
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: `Barman em Juiz de Fora 🍸, especializado em criar experiências únicas com coquetéis artesanais 🍹. Sempre em busca de novas inspirações 🌟 para surpreender os paladares dos clientes, trazendo o melhor da mixologia para cada evento 🎉.`,
+        description: `Barman em Juiz de Fora e Matias Barbosa🍸, especializado em criar experiências únicas com coquetéis artesanais 🍹. Sempre em busca de novas inspirações 🌟 para surpreender os paladares dos clientes, trazendo o melhor da mixologia para cada evento 🎉.`,
         descShow: true,
         subdesc: '',
         subdescShow: true,
