@@ -31,9 +31,7 @@ export default class MyDocument extends Document {
 
     render() {
         return (
-            // eslint-disable-next-line react/jsx-no-comment-textnodes
             <Html>
-                // eslint-disable-next-line @next/next/next-script-for-ga
                 <Head> <script
                     dangerouslySetInnerHTML={{
                         __html: `
