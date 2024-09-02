@@ -62,7 +62,7 @@ export default class MyDocument extends Document {
                 <body>
                     <noscript>
                         <iframe 
-                            src="https://www.googletagmanager.com/ns.html?id=GTM-P93HZJJ8"
+                            src="https://www.googletagmanager.com/ns.html?id=G-1CLL01F0PR"
                             height="0"
                             width="0"
                             style={{ display: "none", visibility: "hidden" }}
