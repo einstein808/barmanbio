@@ -33,7 +33,7 @@ export default class MyDocument extends Document {
         return (
             <Html>
                 <Head>
-                    <link rel="icon" href="https://barman.gabryelamaro.com/favicon.ico"/>
+                    <link rel="icon" href="https://barman.gabryelamaro.com/favicon.ico" />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-1CLL01F0PR"></script>
                     <script
                         dangerouslySetInnerHTML={{
@@ -44,6 +44,53 @@ export default class MyDocument extends Document {
 
                                 gtag('config', 'G-1CLL01F0PR');
                             `,
+                        }}
+                    />
+                    <script
+                        type="application/ld+json"
+                        dangerouslySetInnerHTML={{
+                            __html: JSON.stringify({
+                                "@context": "https://schema.org",
+                                "@type": "LocalBusiness",
+                                "name": "Barman Matias Barbosa e Juiz de fora",
+                                "url": "https://barman.gabryelamaro.com",
+                                "logo": "https://i.imgur.com/CxrpKLy.jpeg",
+                                "address": [
+                                    {
+                                        "@type": "PostalAddress",
+                                        "addressLocality": "Juiz de Fora",
+                                        "addressRegion": "MG",
+                                        "addressCountry": "BR",
+                                        "postalCode": "36000-000"
+                                    },
+                                    {
+                                        "@type": "PostalAddress",
+                                        "addressLocality": "Matias Barbosa",
+                                        "addressRegion": "MG",
+                                        "addressCountry": "BR",
+                                        "postalCode": "36120-000"
+                                    }
+                                ],
+                                "geo": [
+                                    {
+                                        "@type": "GeoCoordinates",
+                                        "latitude": "-21.7640",
+                                        "longitude": "-43.3494",
+                                        "name": "Juiz de Fora"
+                                    },
+                                    {
+                                        "@type": "GeoCoordinates",
+                                        "latitude": "-21.8703",
+                                        "longitude": "-43.3186",
+                                        "name": "Matias Barbosa"
+                                    }
+                                ],
+                                "sameAs": [
+                                    "https://www.facebook.com/einstein.amaro",
+                                    "https://www.instagram.com/gabryel.amaro",
+
+                                ]
+                            })
                         }}
                     />
 
@@ -62,7 +109,7 @@ export default class MyDocument extends Document {
                 </Head>
                 <body>
                     <noscript>
-                        <iframe 
+                        <iframe
                             src="https://www.googletagmanager.com/ns.html?id=G-1CLL01F0PR"
                             height="0"
                             width="0"

@@ -11,28 +11,27 @@ const GoogleReviewButton = () => {
             justifyContent: 'center', 
             alignItems: 'center', 
         }}>
-            <div style={{ marginBottom: '10px' }}>
-                {/* Estrelas representadas por caracteres Unicode */}
-                <span style={{ fontSize: '24px', color: '#FFD700' }}>★ ★ ★ ★ ★</span>
-            </div>
             <a 
-                href={reviewUrl} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                style={{
-                    display: 'inline-block',
-                    padding: '10px 20px',
-                    fontSize: '16px',
-                    color: '#fff',
-                    backgroundColor: '#4285F4',
-                    borderRadius: '5px',
-                    textDecoration: 'none',
-                    fontWeight: 'bold',
-                    textAlign: 'center'
-                }}
-            >
-                Avalie-nos no Google
-            </a>
+    href={reviewUrl} 
+    target="_blank" 
+    rel="noopener noreferrer"
+    style={{
+        display: 'block',
+        padding: '10px 30px',
+        fontSize: '16px',
+        color: '#fff',
+        backgroundColor: '#4285F4',
+        borderRadius: '5px',
+        textDecoration: 'none',
+        fontWeight: 'bold',
+        textAlign: 'center'
+    }}
+>
+    Avalie-nos no Google
+    <div style={{ fontSize: '15px', color: '#FFD700', marginTop: '2px' }}>
+        ★ ★ ★ ★ ★
+    </div>
+</a>
         </div>
     );
 }
