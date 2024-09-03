@@ -33,6 +33,7 @@ export default class MyDocument extends Document {
         return (
             <Html>
                 <Head>
+                    <link rel="icon" href="https://barman.gabryelamaro.com/favicon.ico"/>
                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-1CLL01F0PR"></script>
                     <script
                         dangerouslySetInnerHTML={{
