@@ -8,12 +8,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "@react-three/fiber": "^8.2.1",
     "next": "^12.2.4",
     "next-seo": "^5.5.0",
+    "next-sitemap": "^4.2.3",
     "nextjs-google-analytics": "^2.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",

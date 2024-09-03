@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://barman.gabryelamaro.com
+
+# Sitemaps
+Sitemap: https://barman.gabryelamaro.com/sitemap.xml
