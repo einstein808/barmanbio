@@ -110,7 +110,7 @@ const webLinks = [
     // Install section
     {
         title: 'Chame no WhatsApp',
-        url: 'https://wa.me/5532998696519',
+        url: '/whatsapp',
         type: 'install',
         icon: '/whats.png',
         on: true
