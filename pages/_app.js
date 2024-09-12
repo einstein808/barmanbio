@@ -26,7 +26,7 @@ function MyApp({ Component, pageProps }) {
             <ThemeProvider theme={theme}>
                 <Head>
                     <meta content="width=device-width, initial-scale=1" name="viewport" />
-                    <link rel="icon" href="/public/favicon.ico" type="image/x-icon" />
+                    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
                 </Head>
                 <GlobalStyle />
