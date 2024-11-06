@@ -3,20 +3,20 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'pt_br',
-        title: 'Barman Bartender Gabryel Amaro',
+        title: 'Barman Juiz de Fora | Gabryel Amaro',
         url: 'https://barman.gabryelamaro.com',
-        description: 'Serviços de barman e bartender para festas e eventos em Matias Barbosa e Juiz de Fora. Gabryel Amaro oferece drinks exclusivos e atendimento personalizado.',
+        description: 'Serviços de barman e bartender para festas e eventos em Juiz de Fora. Gabryel Amaro oferece drinks exclusivos e atendimento personalizado.',
         locale: 'pt_br',
-        keywords: 'barman matias barbosa, barman juiz de fora, barman gabryel amaro, bartender juiz de fora, bartender matias barbosa, barman para festa, barman para festa matias barbosa, barman para festa juizde fora',
+        keywords: 'barman jf, barman juiz de fora, barman gabryel amaro, bartender juiz de fora, bartender matias barbosa, barman para festa, barman para festa matias barbosa, barman para festa juiz de fora',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: `https://i.imgur.com/CxrpKLy.jpeg`,
-                alt: 'Barman Gabryel Amaro preparando drinks em Matias Barbosa e Juiz de Fora'
+                url: `https://barman.gabryelamaro.com/avatar.png`,
+                alt: 'Barman Gabryel Amaro preparando drinks em Juiz de Fora'
             },
         ],
-        site_name: 'Gabryel Amaro',
+        site_name: 'Barman Juiz de Fora | Barman JF',
     },
     twitter: {
         handle: '@Gabryel Amaro',

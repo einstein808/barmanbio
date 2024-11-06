@@ -53,9 +53,9 @@ export default class MyDocument extends Document {
                             __html: JSON.stringify({
                                 "@context": "https://schema.org",
                                 "@type": "LocalBusiness",
-                                "name": "Barman Matias Barbosa e Juiz de fora",
+                                "name": "Barman Juiz de fora",
                                 "url": "https://barman.gabryelamaro.com",
-                                "logo": "https://i.imgur.com/CxrpKLy.jpeg",
+                                "logo": "https://barman.gabryelamaro.com/avatar.png",
                                 "address": [
                                     {
                                         "@type": "PostalAddress",
@@ -88,7 +88,7 @@ export default class MyDocument extends Document {
                                 ],
                                 "sameAs": [
                                     "https://www.facebook.com/einstein.amaro",
-                                    "https://www.instagram.com/gabryel.amaro",
+                                    "https://www.instagram.com/jf.barman",
 
                                 ]
                             })
