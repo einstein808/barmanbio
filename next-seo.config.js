@@ -12,7 +12,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://i.imgur.com/lefbYWJ.jpeg`,
+                url: `https://i.imgur.com/o2iE1W7.jpeg`,
                 alt: 'Barman Gabryel Amaro preparando drinks em Juiz de Fora'
             },
         ],
