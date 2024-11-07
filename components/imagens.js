@@ -8,6 +8,8 @@ const PaginaR = () => {
       "/4.jpg",
       "/5.png",
       "/6.png",
+      "/7.png",
+      "/8.jpg",
       // ... adicione mais URLs de imagens conforme necessário
     ];
   
