@@ -13,6 +13,7 @@ const PaginaR = () => {
     { src: '/drink pina colada espuma gengibre.jpg', alt: 'Drink Pina Colada com espuma de gengibre preparado pelo barman de juiz de fora Gabryel Amaro' },
     { src: '/caipifruta de morango.jpg', alt: 'Caipifruta de Morango preparado pelo barman de juiz de fora Gabryel Amaro' },
     { src: '/cocktail sem alcool.jpg', alt: 'Cocktail sem alcool de Maracuja preparado pelo barman de juzi de fora Gabryel Amaro' },
+    { src: '/barman juiz de fora Gabryel Amaro.jpg', alt: 'Foto do Barman de Juiz de Fora Preparando um drink' },
   ];
 
   return (
