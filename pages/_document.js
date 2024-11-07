@@ -35,6 +35,7 @@ export default class MyDocument extends Document {
                 <Head>
                     <html lang="pt-BR" />
                     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+                    <meta name="description" content="Barman em Juiz de Fora especializado em drinks personalizados para festas e eventos. Transforme seu evento em uma experiência única com coquetéis artesanais." />
                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-1CLL01F0PR"></script>
                     <script
                         dangerouslySetInnerHTML={{
