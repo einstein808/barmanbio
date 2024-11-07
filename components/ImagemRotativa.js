@@ -5,12 +5,11 @@ const ImagemRotativa = ({ imagens }) => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      // Gera um índice aleatório diferente do índice atual
       setIndiceAtual(prevIndice => {
         let novoIndice;
         do {
           novoIndice = Math.floor(Math.random() * imagens.length);
-        } while (novoIndice === prevIndice); // Garante que o índice seja diferente
+        } while (novoIndice === prevIndice);
         return novoIndice;
       });
     }, 5000);
@@ -22,7 +21,10 @@ const ImagemRotativa = ({ imagens }) => {
 
   return (
     <div>
-      <img src={imagens[indiceAtual]} alt={`Imagem ${indiceAtual}`} />
+      <img
+        src={imagens[indiceAtual].src}
+        alt={imagens[indiceAtual].alt}
+      />
     </div>
   );
 };
