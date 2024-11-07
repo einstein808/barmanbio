@@ -13,7 +13,7 @@ const webLinks = [
         url: 'https://www.instagram.com/gabryel.amaro/',
         type: 'social',
         icon: '/insta.svg',
-        on: true
+        on: false
     },
     {
         title: 'Dribbble',
