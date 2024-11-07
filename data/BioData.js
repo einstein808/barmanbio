@@ -9,7 +9,7 @@ const bioData = [
         nftAvatar: true,
         description: `Barman em Juiz de Fora e Matias Barbosa🍸, especializado em criar experiências únicas com coquetéis artesanais 🍹`,
         descShow: true,
-        subdesc: '',
+        subdesc: 'dddddddddddddddd',
         subdescShow: true,
         newProductUrl: 'https://wa.me/5532998696519',
         newProduct: true,

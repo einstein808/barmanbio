@@ -2,17 +2,17 @@ import ImagemRotativa from "./ImagemRotativa";
 
 const PaginaR = () => {
   const imagens = [
-    { src: '/1.png', alt: 'Drink Moscow Mule preparado pelo barman de juiz de fora Gabryel Amaro' },
-    { src: '/2.png', alt: 'Drink Apple Martini preparado pelo barman de juiz de fora Gabryel Amaro' },
-    { src: '/3.png', alt: 'Drink Lagoa Azul preparado pelo barman de juiz de fora Gabryel Amaro' },
-    { src: '/4.jpg', alt: 'Drink Morango Mule preparado pelo barman de juiz de fora Gabryel Amaro' },
-    { src: '/5.png', alt: 'Descrição da imagem 5' },
-    { src: '/6.png', alt: 'Descrição da imagem 6' },
-    { src: '/7.png', alt: 'Descrição da imagem 7' },
-    { src: '/8.jpg', alt: 'Descrição da imagem 8' },
-    { src: '/9.jpg', alt: 'Descrição da imagem 9' },
-    { src: '/10.jpg', alt: 'Descrição da imagem 10' },
-    { src: '/11.jpg', alt: 'Descrição da imagem 11' },
+    { src: '/drink moscow mule.png', alt: 'Drink Moscow Mule preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/Drink Apple Martini.png', alt: 'Drink Apple Martini preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/Drink Lagoa Azul.png', alt: 'Drink Lagoa Azul preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/drink morango mule.jpg', alt: 'Drink Morango Mule preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/drink sex on the beach.png', alt: 'Drink Sex on the Beach preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/drink pina colada.png', alt: 'Drink Pina Colada preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/barman de juiz de fora Gabryel Amaro.png', alt: 'Barman Gabryel Amaro preparando um drinks em Juiz de fora' },
+    { src: '/drink do patinho na banheira.jpg', alt: 'Drink do patinho na banheira preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/drink pina colada espuma gengibre.jpg', alt: 'Drink Pina Colada com espuma de gengibre preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/caipifruta de morango.jpg', alt: 'Caipifruta de Morango preparado pelo barman de juiz de fora Gabryel Amaro' },
+    { src: '/cocktail sem alcool.jpg', alt: 'Cocktail sem alcool de Maracuja preparado pelo barman de juzi de fora Gabryel Amaro' },
   ];
 
   return (
