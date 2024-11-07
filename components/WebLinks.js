@@ -88,7 +88,7 @@ const Links = () => {
             <Title>
               {/* Using titleimg flag to use image as title or text */}
               {titleImg ?
-                <img src={titleImage} className="handle" /> :
+                <img src={titleImage} className="handle" alt="foto " /> :
                 <h1>{name}</h1>
               }
               {/* if your remove username from data it will not appear */}

@@ -2,14 +2,14 @@
 const bioData = [
     {
         name: 'Gabryel Amaro',
-        username: '@gabryel.amaro',
+        username: '@jf.barman',
         url: 'https://www.instagram.com/gabryel.amaro',
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: `Barman em Juiz de Fora e Matias Barbosa🍸, especializado em criar experiências únicas com coquetéis artesanais 🍹`,
+        description: `Gabryel Amaro, barman especializado em eventos em Juiz de Fora e Matias Barbosa 🍸. Criando coquetéis artesanais e drinks personalizados para festas e eventos. Transforme sua festa com um barman profissional em JF!`,
         descShow: true,
-        subdesc: 'dddddddddddddddd',
+        subdesc: '',
         subdescShow: true,
         newProductUrl: 'https://wa.me/5532998696519',
         newProduct: true,
