@@ -51,7 +51,7 @@ const WhatsAppRedirect = () => {
 
         try {
             console.log('Enviando dados para o webhook...');
-            const response = await fetch('https://n8n.gamaro.me/webhook-test/cdb1f52d-05e0-41cb-b4f6-3745567b66df', {
+            const response = await fetch('https://webhook.n8n.gamaro.me/webhook/cdb1f52d-05e0-41cb-b4f6-3745567b66df', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
